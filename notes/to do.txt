@@ -1,0 +1,18 @@
+- import db from db folder
+- Search room and load result
+  - load room type in a select box
+  - add date selector for from and to dates
+  - on click search load result page with following details in rows
+    room type
+    image
+    description
+    rate
+    check box for selecting the room
+    common button for all rows - book now
+
+  result page must have a title just like home page
+  you can convert index.php
+- check the page for all responsive views
+
+
+	
